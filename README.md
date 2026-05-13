@@ -11,4 +11,4 @@ This project implements a **fully connected artificial neural network (ANN)** fr
 
 ## Diagram of the Neural Network
 
-![ANN Diagram](images/ANN.png)
+![ANN Diagram](images/ANN.svg)
